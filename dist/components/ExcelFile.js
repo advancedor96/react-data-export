@@ -124,7 +124,7 @@ ExcelFile.defaultProps = {
     element: _react2.default.createElement(
         "button",
         null,
-        "Download"
+        "匯出 Excel"
     )
 };
 exports.default = ExcelFile;
